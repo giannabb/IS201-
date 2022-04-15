@@ -1,0 +1,15 @@
+.header{
+    height: 100px;
+    background-color: tan;
+    line-height: 100px;
+    color: white;
+    text-align: center;
+}
+
+.footer{
+    height: 50px;
+    background-color: rosybrown;
+    line-height: 50px;
+    color: white;
+    text-align: center;
+}
